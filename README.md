@@ -1,15 +1,15 @@
-# Assignment Name :- crypto-store
+# Assignment Name:- crypto-store
 
 
-Hello Everyone, We've developed  a small crypto storefront where users can select among 3 cryptocurrencies, input their desired quantity, and add their selection to a cart 
+Hello Everyone, I've developed  a small crypto storefront where users can select among 3 cryptocurrencies, input their desired quantity, and add their selection to a cart 
 
 
 
 # About Project | Crypto Store :
 
-Crypto Store : It is a webpage where user can purchase the crypo currency like bitcoin, litecoin,etc.
+Crypto Store: It is a webpage where users can purchase cryptocurrency like bitcoin, lite coin,etc.
 
-# Member: It is an individual project build by Deepak Pradhan
+# Member: It is an individual project built by Deepak Pradhan
  
 
 # Tech stacks used :
@@ -34,7 +34,7 @@ HTML, CSS , JS, React.js
 
 
 
-We hope this article will help in establishing better understanding of our project.
+I hope this article will help in establishing a better understanding of our project.
 
 # Thank you
 
