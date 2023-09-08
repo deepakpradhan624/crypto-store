@@ -5,11 +5,11 @@ Hello Everyone, We've developed  a small crypto storefront where users can selec
 
 
 
-# About Project | Crypto Purchase :
+# About Project | Crypto Store :
 
-Crypto Purchase : It is a webpage where user can purchase the crypo currency like bitcoin, litecoin,etc.
+Crypto Store : It is a webpage where user can purchase the crypo currency like bitcoin, litecoin,etc.
 
-# Member:It is an individual project build by Deepak Pradhan
+# Member: It is an individual project build by Deepak Pradhan
  
 
 # Tech stacks used :
@@ -18,7 +18,7 @@ HTML, CSS , JS, React.js
 
 
 
-# Some images of the assignmnet :
+# Some images of the assignment:
 
 ## 1. Before Add any crypto
 ![beforeAdd](https://github.com/deepakpradhan624/crypto-store/assets/107460051/51acef80-8110-47b9-bfdb-a46f6d683269)
@@ -26,7 +26,7 @@ HTML, CSS , JS, React.js
 
 
 
-## 2. After add crypo
+## 2. After adding crypto
 ![afterAdd](https://github.com/deepakpradhan624/crypto-store/assets/107460051/ffae034a-3ffe-4a9b-9c29-091246e75338)
 
 
